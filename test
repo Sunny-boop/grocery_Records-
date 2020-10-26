@@ -1,0 +1,73 @@
+ <center>
+     <h1>黄国梁</h1>
+     <div>
+         <span>
+             <img src="assets/phone-solid.svg" width="18px">
+             13500021472
+         </span>
+         <span>
+             <img src="assets/envelope-solid.svg" width="18px">
+             1063332009@qq.com
+         </span>
+     </div>
+
+
+ <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+
+
+ - 男，1994 年出生
+ - 求职意向：Java 研发工程师
+ - 工作经验：3年
+
+## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+
+- 本科，东莞理工大学，计算机科学与技术专业，2017-2021
+- 专科，广东理工学院，软件技术专业，2014-2017
+
+## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+
+- 广州梦贤教育科技有限公司，Java开发工程师，2017.09~2018.11
+- 广 州 市 红 甘 果 信 息 科 技 有 限 公 司，Java开发工程师，2018.12~2019.05
+- 杰伟科技有限公司，Java开发工程师，2019.07-至今
+
+## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+
+- 梦贤教育
+
+  SpringBoot + Redis + Mybatis + Mysql
+
+  该项目主要是一个电商App应用，个人主要负责商品与订单的模块，在项目启动初期，商品总量并不是很多的情况下，没有考虑到使用缓存数据做优化，结果导致后面数据量多的情况下导致系统查询超时甚至崩溃，后面通过学习，了解了缓存的机制和原理，考虑到商品的展示栏位不会频繁更新，所以在查询的时候，将数据缓存起来并设置了缓存失效时间，解决了访问超时的问题。
+
+- 小糊涂仙
+
+  SpringBoot + Vue + Jpa + Shiro + Mysql
+
+  该项目是一个贵州茅台酒业的微信小程序，主要分两个大模块，一个是线上购物，一个是线上定制的功能，个人在此项目中主要负责线上定制的功能模块。使用队列的方式防止了商品超卖的情况。
+
+- September
+
+  SpringBoot + Vue + Jpa + Shiro + Mysql
+
+  该项目是一个针对中小学网络课程的线上学习的小程序，个人在此项目中主要负责会员定制的功能模块。使用了shiro进行权限校验每个用户已经解锁的功能和使用的权限，不需要每次访问某个会员功能时还需要去数据库校验当前用户是否拥有使用权限，提升了系统性能。
+
+- Mes+
+
+  SpringBoot + SpringCloud + Aui+ MyBatis + Oracal + Redis
+
+  该项目是一个制造管理系统，本人主要负责成型测试模块。由于此项目部署在多个服务器上，存在并发请求，导致数据异常，在关键的请求上结合了Redisson分布式锁，给当前请求加上锁机制，保证同一时刻只能有一个线程获得锁，防止了数据异常的问题。
+
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+
+- 熟悉 **Java 语言**，掌握 **Spring、Springboot、SpringCloud** 等主流框架
+
+- 熟悉**MyBatis、Hibernate **框架
+
+- 熟练使用 **Oracle/MySQL** 数据库，对于 **Mongodb** 等 NOSQL 数据库具有一定的了解，拥有一定的数据库设计能力和优化能力
+
+- **Vue，JavaScript**
+
+- **Redis**
+
+- **Git**
+
+  
