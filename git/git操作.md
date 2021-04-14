@@ -9,4 +9,7 @@
 
   ## 3.强推
   * git push --force
+  
+  ## 4.刷新分支信息
+  * git fetch
     
