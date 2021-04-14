@@ -7,6 +7,6 @@
   ## 2.应用修改
   * git rebase --continue
 
-  ## 3.强退
+  ## 3.强推
   * git push --force
     
